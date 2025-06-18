@@ -27,6 +27,5 @@ This project i built during learning DOM events in JavaScript .
  * Event listeners and game state management
  * Using timeouts and delays for animations
 * Implementing game logic: sequences, user input, matching
-* Playing audio in JavaScript
 * Creating a fully responsive layout
 * Error handling and UX improvements
