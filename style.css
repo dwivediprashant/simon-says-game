@@ -1,0 +1,47 @@
+h2,h3{
+    text-align: center;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    /* position: relative; */
+    /* background-color: black; */
+}
+.container div div{
+    height: 200px;
+    width: 200px;
+    margin: 2rem;
+    border: 10px solid black;
+    border-radius: 40px;
+}
+.one{
+    background-color: pink;
+}
+.two{
+    background-color: rgb(98, 164, 221);
+}
+.three{
+    background-color: rgb(63, 182, 63);
+}
+.four{
+    background-color: rgb(248, 139, 56);
+}
+
+.flashByGame{
+    background-color: greenyellow;
+}
+.flashByUser{
+    background-color: white;
+}
+
+.backgroundFlash{
+    background-color: red;
+}
