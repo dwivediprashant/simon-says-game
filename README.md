@@ -1,5 +1,6 @@
 # Simon Says Game – Classic Memory Game (Clone)
 This is a clone of the classic "Simon Says" game, built using  HTML, CSS, and JavaScript, without any external libraries or frameworks.
+This project i built during learning DOM events in JavaScript .
 
 ## What the Game Does
 - Generates a random sequence of color flashes and sounds.
